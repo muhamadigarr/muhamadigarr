@@ -1,5 +1,5 @@
 ## hi, im igar  🐳
-![bg1]( img/bg1.PNG)
+![bg1](bg1.png)
 <!--
 **muhamadigarr/muhamadigarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**Skills**
