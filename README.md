@@ -1,5 +1,5 @@
 ## hi, im igar  🐳
-
+![bg1]( img/bg1.PNG)
 <!--
 **muhamadigarr/muhamadigarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
