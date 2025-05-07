@@ -37,3 +37,5 @@ Here are some ideas to get you started:
 ![image](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
 ![image](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)
 ![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+## Music 🎼
+![bg1](blue1.png)
